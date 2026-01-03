@@ -1,4 +1,3 @@
-# clinical-chest-ai-orchestrator
 # Clinical Chest AI Orchestrator
 
 **Enterprise PACS-AI workflow integration architecture** | [Live Demo Video](docs/demo.mp4)

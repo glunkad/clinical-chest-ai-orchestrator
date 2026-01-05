@@ -88,7 +88,7 @@ sequenceDiagram
     Note over Dcm4che: AI results archived<br/>in native PACS storage
 ```
 
-**Critical path**: Entire cycle completes in **2.1 seconds median**, meeting radiologist workflow requirements.
+**Critical path**: Entire cycle completes in **7 seconds median**, meeting radiologist workflow requirements.
 
 ---
 
